@@ -1,1 +1,6 @@
-# HomeAssistant-TTS-na-g-o-niki-Alexa
+init_commands: []
+python_packages:
+  - gTTS
+  - pydub
+system_packages:
+  - ffmpeg
